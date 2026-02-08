@@ -2,6 +2,16 @@
 
 A deep learning-based system for recognizing American Sign Language (ASL) alphabet gestures in real-time, achieving 99.19% validation accuracy.
 
+## View Full Project
+
+**Note:** The full notebook with outputs is too large for GitHub's viewer.
+
+**View Interactive Notebook with All Results:**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NniTXEwQVO_z_qxviSVPXeosLFFqV43N?usp=sharing)
+
+*Click above to view the complete project with training results, visualizations, and real-time recognition demo.*
+
 ## Overview
 
 This project implements a custom Convolutional Neural Network to translate ASL fingerspelling into text. The system captures gestures via webcam, recognizes individual letters, and forms complete words and sentences - making it a practical tool for accessibility and communication.
